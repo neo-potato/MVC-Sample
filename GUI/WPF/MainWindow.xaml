@@ -1,0 +1,9 @@
+<Window x:Class="App.GUI_WPF.MainWindow" ...>
+    <StackPanel>
+        <TextBlock Text="{Binding DisplayText}" FontSize="32" />
+
+        <Button Content="1" Click="Button_1_Click" />
+        <Button Content="+" Click="Button_Plus_Click" />
+        <Button Content="=" Click="Button_Equal_Click" />
+    </StackPanel>
+</Window>
