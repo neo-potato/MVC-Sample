@@ -1,4 +1,4 @@
-public class CalculatorApp
+public class App
 {
     public void Run(string[] args)
     {
